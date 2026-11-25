@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/digitalwitchdemo/k8s-file.git
+    repoURL: https://github.com/stancloud9/ecommerce-k8s-files-dw.git
     targetRevision: main
     path: argocd/apps
   destination:
