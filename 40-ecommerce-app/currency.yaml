@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: currency
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/currency:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/currency:latest
           ports:
             - name: grpc
               containerPort: 7001

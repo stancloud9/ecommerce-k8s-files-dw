@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: email
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/email:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/email:latest
           ports:
             - name: http
               containerPort: 6060

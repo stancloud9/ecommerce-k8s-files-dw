@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: cart
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/cart:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/cart:latest
           ports:
             - name: grpc
               containerPort: 7070

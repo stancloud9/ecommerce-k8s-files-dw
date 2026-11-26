@@ -44,7 +44,7 @@ spec:
         fsGroup: 1000 # appuser
       containers:
         - name: kafka
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/kafka:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/kafka:latest
           ports:
             - name: plaintext
               containerPort: 9092

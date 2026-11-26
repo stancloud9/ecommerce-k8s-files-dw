@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: shipping
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/shipping:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/shipping:latest
           ports:
             - name: http
               containerPort: 50050

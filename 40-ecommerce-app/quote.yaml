@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: quote
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/quote:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/quote:latest
           ports:
             - name: http
               containerPort: 8090

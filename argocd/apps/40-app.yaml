@@ -1,4 +1,4 @@
-# ecommerce-app: shop services, flagd, and the shop Ingress (https://shop.digitalwitch.online)
+# ecommerce-app: shop services, flagd, and the shop Ingress (https://shop.stanleyunue.online)
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:

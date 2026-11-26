@@ -1,4 +1,4 @@
-# Frontend proxy (Envoy) - entry point for shop.digitalwitch.online
+# Frontend proxy (Envoy) - entry point for shop.stanleyunue.online
 apiVersion: v1
 kind: Service
 metadata:
@@ -37,7 +37,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: frontend-proxy
-          image: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/frontend-proxy:latest
+          image: 910965283770.dkr.ecr.us-east-2.amazonaws.com/ecommerce/frontend-proxy:latest
           ports:
             - name: http
               containerPort: 8080

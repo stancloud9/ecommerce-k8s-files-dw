@@ -22,7 +22,7 @@ Argo CD with Kustomize.
 
 | URL | Service | Login |
 |---|---|---|
-| https://shop.digitalwitch.online | Shop (flags at `/feature`, Locust at `/loadgen/`, AI chat at `/chatbot/`) | public |
+| https://shop.stanleyunue.online | Shop (flags at `/feature`, Locust at `/loadgen/`, AI chat at `/chatbot/`) | public |
 | https://grafana.digitalwitch.online | Grafana | Grafana admin (`grafana-admin` Secret) |
 | https://jaeger.digitalwitch.online | Jaeger | basic auth |
 | https://prometheus.digitalwitch.online | Prometheus | basic auth |
